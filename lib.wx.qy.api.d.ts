@@ -2,6 +2,8 @@
  * @desc 企业微信小程序 api
  * @date 2020/06/01  六一儿童节快乐
  * @author ShineShao <xiaoshaoqq@gmail.com>
+ * 
+ * @link https://github.com/freeshineit/lib.wx.qy.api/blob/master/lib.wx.qy.api.d.ts
  */
 declare namespace WechatMiniprogram {
   interface Wx {
