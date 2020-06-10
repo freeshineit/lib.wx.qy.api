@@ -41,7 +41,7 @@ declare namespace WechatMiniprogram {
        */
       login(obj?: {
         timeout?: Number;
-        success?: (res?: { errMsg: string; code: string }) => void;
+        success?: (res: { errMsg: string; code: string }) => void;
         fail?: (res?: { errMsg: string }) => void;
         complete?: (res?: { errMsg: string; code?: string }) => void;
       }): void;
